@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/APARN/RISC-Processor-Verilog/RISC-Processor-Verilog/RISC-Processor-Verilog.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/alu.v,1782706822,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/control_unit.v,,alu,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/control_unit.v,1782722752,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/cpu_top.v,,control_unit,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/cpu_top.v,1782707892,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/data_memory.v,,cpu_top,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/data_memory.v,1782707048,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/instruction_memory.v,,data_memory,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/instruction_memory.v,1782721931,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/program_counter.v,,instruction_memory,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/program_counter.v,1782717283,verilog,,C:/Users/APARN/RISC-Processor-Verilog/src/register_file.v,,program_counter,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/src/register_file.v,1782717228,verilog,,C:/Users/APARN/RISC-Processor-Verilog/tb/cpu_tb.v,,register_file,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/tb/alu_tb.v,1782705624,verilog,,,,alu_tb,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/APARN/RISC-Processor-Verilog/tb/cpu_tb.v,1782708410,verilog,,,,cpu_tb,,,../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

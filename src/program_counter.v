@@ -1,0 +1,16 @@
+`timescale 1ns / 1ps
+
+module program_counter(
+    input clk,
+    input reset,
+    output reg [15:0] pc
+);
+
+always @(posedge clk or posedge reset)
+begin
+    if(reset)
+        pc <= 0;
+    else
+        pc <= (pc == 4) ? 0 : pc + 1;
+end
+endmodule

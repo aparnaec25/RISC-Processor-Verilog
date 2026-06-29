@@ -1,0 +1,17 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+
+# Vivado folders
+RISC-Processor-Verilog.sim/
+RISC-Processor-Verilog.runs/
+RISC-Processor-Verilog.cache/
+RISC-Processor-Verilog.gen/
+RISC-Processor-Verilog.hw/
+RISC-Processor-Verilog.ip_user_files/
+
+# Temporary files
+*.tmp
